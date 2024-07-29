@@ -1,6 +1,6 @@
 # Calculadora_IMC
 
-# Descrição:
+## Descrição:
 calculadora simples de indece de massa corporal.
 
 ## Tecnologias usadas:
