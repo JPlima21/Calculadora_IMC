@@ -3,5 +3,5 @@
 # Descrição:
 calculadora de indece de massa corporal.
 
-#Tecnologias usadas:
+## Tecnologias usadas:
 Python 3, CustonTKinter
